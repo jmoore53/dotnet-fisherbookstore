@@ -1,0 +1,14 @@
+/home/jack/Documents/School/Senior/Spring/3610/labs/Fisher.Bookstore/bin/Debug/netcoreapp2.2/Fisher.Bookstore.deps.json
+/home/jack/Documents/School/Senior/Spring/3610/labs/Fisher.Bookstore/bin/Debug/netcoreapp2.2/Fisher.Bookstore.runtimeconfig.json
+/home/jack/Documents/School/Senior/Spring/3610/labs/Fisher.Bookstore/bin/Debug/netcoreapp2.2/Fisher.Bookstore.runtimeconfig.dev.json
+/home/jack/Documents/School/Senior/Spring/3610/labs/Fisher.Bookstore/bin/Debug/netcoreapp2.2/Fisher.Bookstore.dll
+/home/jack/Documents/School/Senior/Spring/3610/labs/Fisher.Bookstore/bin/Debug/netcoreapp2.2/Fisher.Bookstore.pdb
+/home/jack/Documents/School/Senior/Spring/3610/labs/Fisher.Bookstore/obj/Debug/netcoreapp2.2/Fisher.Bookstore.csprojAssemblyReference.cache
+/home/jack/Documents/School/Senior/Spring/3610/labs/Fisher.Bookstore/obj/Debug/netcoreapp2.2/Fisher.Bookstore.csproj.CoreCompileInputs.cache
+/home/jack/Documents/School/Senior/Spring/3610/labs/Fisher.Bookstore/obj/Debug/netcoreapp2.2/Fisher.Bookstore.RazorAssemblyInfo.cache
+/home/jack/Documents/School/Senior/Spring/3610/labs/Fisher.Bookstore/obj/Debug/netcoreapp2.2/Fisher.Bookstore.RazorAssemblyInfo.cs
+/home/jack/Documents/School/Senior/Spring/3610/labs/Fisher.Bookstore/obj/Debug/netcoreapp2.2/Fisher.Bookstore.AssemblyInfoInputs.cache
+/home/jack/Documents/School/Senior/Spring/3610/labs/Fisher.Bookstore/obj/Debug/netcoreapp2.2/Fisher.Bookstore.AssemblyInfo.cs
+/home/jack/Documents/School/Senior/Spring/3610/labs/Fisher.Bookstore/obj/Debug/netcoreapp2.2/Fisher.Bookstore.RazorTargetAssemblyInfo.cache
+/home/jack/Documents/School/Senior/Spring/3610/labs/Fisher.Bookstore/obj/Debug/netcoreapp2.2/Fisher.Bookstore.dll
+/home/jack/Documents/School/Senior/Spring/3610/labs/Fisher.Bookstore/obj/Debug/netcoreapp2.2/Fisher.Bookstore.pdb
