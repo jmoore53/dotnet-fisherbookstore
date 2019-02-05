@@ -7,17 +7,17 @@ namespace Fisher.Bookstore.Controllers
     {
         public IActionResult Index()
         {
-            return Content("Books/Index Books Controller");
+            return View();
         }
         public IActionResult New()
         {
-            return Content("Books/New Books");
+            return View();
         }
         [Route("/books/best-sellers")]
         [Route("/books/best")]
         public IActionResult Best()
         {
-            return Content("Books/Best Sellers");
+            return View();
         }
     }
 }
